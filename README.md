@@ -1,4 +1,4 @@
-Developed a Job Application Microservices System 💼 using Spring Boot and cloud-native architecture ☁️. 
+Developed a Job Application Microservices System 💼 using Spring Boot. 
 
 Key features:
 
