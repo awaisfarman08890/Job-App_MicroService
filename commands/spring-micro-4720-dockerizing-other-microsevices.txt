@@ -1,0 +1,14 @@
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=<your-dockerhub-username>/<your-image-name>"
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/servicereg"
+
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/companyms"
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/reviewms"
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/jobms"
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/gateway-ms"
+
+./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=dcode007/config-server-ms"
